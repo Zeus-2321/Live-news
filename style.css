@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300&display=swap');
+* {
+  font-family: 'Nunito Sans', sans-serif;
+}
 #blog {
   display: grid;
   grid-template-columns: 33% 33% 33%;
@@ -15,8 +19,8 @@
 }
 
 .article img {
-  width: 100px;
-  height: 100px;
+  width: 250px;
+  height: 150px;
 }
 
 .article > .strength {
